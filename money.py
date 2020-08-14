@@ -1,4 +1,4 @@
-score=int(input("请输入需要增加的分值:"))
+score=int(input("请输入需要的分值:"))
 time=input("请输入时间(10年、年、季、月、周（以 , 分割）):").split(",")
 ifor=input("请问是否需要去除广告图标(Y/N):")
 if ifor=="Y" or ifor=="y":
